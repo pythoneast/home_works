@@ -184,7 +184,7 @@ public class Main {
         System.out.println("Студент");
         System.out.println();
 
-        System.out.println(student1.getFirstName() + " " + student1.getLastName() + " " + student1.getGender() + " " + student1.getbirthDate() + " " + student1.getAge());
+        System.out.println(student1.getFirstName() + " " + student1.getLastName() + " " + student1.getGender() + " " + student1.getBirthDate() + " " + student1.getAge());
 
         Student[] students = {student1, student2, student3};
     

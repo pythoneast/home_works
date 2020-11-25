@@ -42,7 +42,7 @@ public class Student {
         }
     }
 
-    public Date getbirthDate() {
+    public Date getBirthDate() {
         return birthDate;
     }
 
