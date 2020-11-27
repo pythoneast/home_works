@@ -26,6 +26,9 @@ public class Main {
         //  Использовать геттеры и сеттеры для получения и присваивания значений
         //  Проверить Возраст на негативное значение
 
+        // Instead of Date use LocalDate
+        // Course java = new Course(LocalDate.of(2020, 12, 9));
+
         System.out.println();
         System.out.println("Задача A. Домашние питомцы");
         System.out.println();
